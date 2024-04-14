@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTestDemo", "MSTestDemo\MS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankMSTest", "BankMSTest\BankMSTest.csproj", "{749058F2-7308-44FA-8FD0-FEF0F02EA022}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestDemo", "..\..\NUnit\NUnitTestDemo\NUnitTestDemo.csproj", "{0748EAC0-56B0-4196-9556-9CA9870E1F9F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{749058F2-7308-44FA-8FD0-FEF0F02EA022}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{749058F2-7308-44FA-8FD0-FEF0F02EA022}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{749058F2-7308-44FA-8FD0-FEF0F02EA022}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0748EAC0-56B0-4196-9556-9CA9870E1F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0748EAC0-56B0-4196-9556-9CA9870E1F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0748EAC0-56B0-4196-9556-9CA9870E1F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0748EAC0-56B0-4196-9556-9CA9870E1F9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankMSTest", "BankMSTest\Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestDemo", "NUnitTestDemo\NUnitTestDemo.csproj", "{1E8D74DE-DDDB-4840-9D5E-72D18476F2BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankNUnitTest", "BankNUnitTest\BankNUnitTest.csproj", "{155271E6-3A89-4333-958A-36F714FEE526}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1E8D74DE-DDDB-4840-9D5E-72D18476F2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E8D74DE-DDDB-4840-9D5E-72D18476F2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E8D74DE-DDDB-4840-9D5E-72D18476F2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155271E6-3A89-4333-958A-36F714FEE526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155271E6-3A89-4333-958A-36F714FEE526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155271E6-3A89-4333-958A-36F714FEE526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155271E6-3A89-4333-958A-36F714FEE526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
